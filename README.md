@@ -24,6 +24,14 @@ Effective search classification is crucial for optimizing the user experience in
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Smart Web Search](https://github.com/sourceduty/Smart_Web_Search)
+<br>
+[Narrative Search](https://github.com/sourceduty/Narrative_Search)
+<br>
+[Srearch Multiplier](https://github.com/sourceduty/Search_Multiplier)
+<br>
+[Search Programmer](https://github.com/sourceduty/Search_Programmer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
