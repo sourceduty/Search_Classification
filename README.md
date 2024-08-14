@@ -23,8 +23,6 @@ Effective search classification is crucial for optimizing the user experience in
 #
 ### Example Classification System
 
-In this example, you've built a search classification system for a media platform, classifying videos, music, and images using a hierarchical taxonomy. The system handles short, keyword-based queries, and optimizes search results based on metadata analysis, indexing, and relevance ranking.
-
 ```
 Example Scenario:
 
