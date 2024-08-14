@@ -29,7 +29,7 @@ Effective search classification is crucial for optimizing the user experience in
 <br>
 [Narrative Search](https://github.com/sourceduty/Narrative_Search)
 <br>
-[Srearch Multiplier](https://github.com/sourceduty/Search_Multiplier)
+[Search Multiplier](https://github.com/sourceduty/Search_Multiplier)
 <br>
 [Search Programmer](https://github.com/sourceduty/Search_Programmer)
 
